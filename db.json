@@ -1,11 +1,244 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "GloboTech Smartwatch",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "TechEnthusiast123",
+          "rating": 4,
+          "comment": "Great features, comfortable to wear."
+        },
+        {
+          "id": 2,
+          "user": "FitnessFanatic",
+          "rating": 5,
+          "comment": "Perfect for tracking workouts and sleep."
+        },
+        {
+          "id": 3,
+          "user": "CasualUser",
+          "rating": 3,
+          "comment": "Decent, but the battery life could be better."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "LumiLite LED Desk Lamp",
+      "reviews": [
+        {
+          "id": 4,
+          "user": "StudyBuddy",
+          "rating": 5,
+          "comment": "Amazing brightness, adjustable settings."
+        },
+        {
+          "id": 5,
+          "user": "HomeOfficePro",
+          "rating": 4,
+          "comment": "Sleek design, enhances my workspace."
+        },
+        {
+          "id": 6,
+          "user": "EcoFriendly",
+          "rating": 3,
+          "comment": "Good, but wish it was more energy-efficient."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ZenSleep Memory Foam Pillow",
+      "reviews": [
+        {
+          "id": 7,
+          "user": "SleepyHead89",
+          "rating": 5,
+          "comment": "Best pillow ever, improved my sleep quality."
+        },
+        {
+          "id": 8,
+          "user": "NeckPainNoMore",
+          "rating": 4,
+          "comment": "Provides great support, helped with neck pain."
+        },
+        {
+          "id": 9,
+          "user": "Dreamer123",
+          "rating": 3,
+          "comment": "Decent comfort, but a bit too firm for my liking."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SwiftShred Paper Shredder",
+      "reviews": [
+        {
+          "id": 10,
+          "user": "ConfidentialUser",
+          "rating": 4,
+          "comment": "Efficient and shreds documents well."
+        },
+        {
+          "id": 11,
+          "user": "EarthSaver",
+          "rating": 5,
+          "comment": "Durable and easy to recycle shredded paper."
+        },
+        {
+          "id": 12,
+          "user": "OfficeManager",
+          "rating": 3,
+          "comment": "Gets the job done, but a bit noisy."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "BioBliss Organic Skincare Set",
+      "reviews": [
+        {
+          "id": 13,
+          "user": "GlowingSkinFan",
+          "rating": 5,
+          "comment": "Love the natural ingredients, my skin feels amazing."
+        },
+        {
+          "id": 14,
+          "user": "SensitiveBeauty",
+          "rating": 4,
+          "comment": "Gentle on sensitive skin, noticeable improvement."
+        },
+        {
+          "id": 15,
+          "user": "MinimalistBeauty",
+          "rating": 3,
+          "comment": "Good, but a bit pricey for the quantity."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "HyperDrive USB-C Hub",
+      "reviews": [
+        {
+          "id": 16,
+          "user": "TechGuru",
+          "rating": 5,
+          "comment": "Essential for expanding connectivity on my laptop."
+        },
+        {
+          "id": 17,
+          "user": "DigitalNomad",
+          "rating": 4,
+          "comment": "Compact and reliable, great for on-the-go."
+        },
+        {
+          "id": 18,
+          "user": "AdapterKing",
+          "rating": 3,
+          "comment": "Works well, but could use more USB ports."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "FreshBrew Coffee Maker",
+      "reviews": [
+        {
+          "id": 19,
+          "user": "CoffeeAddict123",
+          "rating": 5,
+          "comment": "Makes delicious coffee, easy to clean."
+        },
+        {
+          "id": 20,
+          "user": "MorningPerson",
+          "rating": 4,
+          "comment": "Convenient and quick brewing in the morning."
+        },
+        {
+          "id": 21,
+          "user": "OfficeCoffeeLover",
+          "rating": 3,
+          "comment": "Decent, but the design could be more modern."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EcoCycle Reusable Water Bottle",
+      "reviews": [
+        {
+          "id": 22,
+          "user": "GreenLiving",
+          "rating": 5,
+          "comment": "Durable and eco-friendly, love the design."
+        },
+        {
+          "id": 23,
+          "user": "FitnessFreak",
+          "rating": 4,
+          "comment": "Easy to carry and encourages me to stay hydrated."
+        },
+        {
+          "id": 24,
+          "user": "HydrationNation",
+          "rating": 3,
+          "comment": "Leak-proof, but the mouthpiece is a bit small."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "SoundScape Wireless Bluetooth Speakers",
+      "reviews": [
+        {
+          "id": 25,
+          "user": "MusicLover",
+          "rating": 5,
+          "comment": "Impressive sound quality, great bass."
+        },
+        {
+          "id": 26,
+          "user": "PartyHost",
+          "rating": 4,
+          "comment": "Perfect for entertaining, easy to connect multiple speakers."
+        },
+        {
+          "id": 27,
+          "user": "PodcastListener",
+          "rating": 3,
+          "comment": "Good, but the battery life could be longer."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "FitFlex Resistance Bands Set",
+      "reviews": [
+        {
+          "id": 28,
+          "user": "FitnessJunkie",
+          "rating": 5,
+          "comment": "Versatile and effective for home workouts."
+        },
+        {
+          "id": 29,
+          "user": "RehabWarrior",
+          "rating": 4,
+          "comment": "Helped with my physical therapy exercises."
+        },
+        {
+          "id": 30,
+          "user": "ExerciseNewbie",
+          "rating": 3,
+          "comment": "Decent, but the resistance could be stronger."
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
