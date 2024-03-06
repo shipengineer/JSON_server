@@ -48,6 +48,27 @@
       "name": "best for any office & business interior solution",
       "date": 1735084800,
       "tag": "interior design"
+    },
+    {
+      "id": 6,
+      "img": "./article/1.png",
+      "name": "best for any office & business interior solution",
+      "date": 1735084800,
+      "tag": ["kitchen", "bedroom", "architecture"],
+      "main": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injecthumour, or randomised words which don't look even slightly believable./nEmbarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary."
+    },
+    {
+      "id": 7,
+      "img": "./article/2.png",
+      "name": "best for any office & business interior solution",
+      "date": 1735084800,
+      "tag": ["kitchen", "bedroom", "architecture"],
+      "main": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "points": [
+        "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+        "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+        "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+      ]
     }
   ],
   "profile": {
