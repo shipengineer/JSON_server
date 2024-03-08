@@ -91,35 +91,35 @@
       "img": "./projects-view/project2-3.png",
       "name": "classic kithcen",
       "date": 1734825600,
-      "tag": ["kitchen", "bedroom", "kitchen design", "bedroom"]
+      "tag": ["bedroom", "kitchen design", "bedroom"]
     },
     {
       "id": 2,
       "img": "./projects-view/project2-5.png",
       "name": "classsic office",
       "date": 1735171200,
-      "tag": ["architecture", "kitchen", "bedroom", "building"]
+      "tag": ["architecture"]
     },
     {
       "id": 3,
       "img": "./projects-view/project2-7.png",
       "name": "Classic bedroom",
       "date": 1735084800,
-      "tag": ["kitchen", "bedroom", "building", "architecture"]
+      "tag": ["kitchen", "building"]
     },
     {
       "id": 4,
       "img": "./projects-view/project2-2.png",
       "name": "classic kithcen",
       "date": 1734825600,
-      "tag": ["architecture", "kitchen", "bedroom", "building"]
+      "tag": ["architecture"]
     },
     {
       "id": 5,
       "img": "./projects-view/project2-4.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bedroom", "kitchen", "building", "architecture"]
+      "tag": ["bedroom", "kitchen"]
     },
     {
       "id": 5,
