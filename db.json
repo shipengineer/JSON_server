@@ -73,32 +73,67 @@
   ],
   "projects": [
     {
+      "id": 0,
+      "img": "./projects-view/project2-1.png",
+      "name": "Classic bedroom",
+      "date": 1735171200,
+      "tag": [
+        "kitchen",
+        "bedroom",
+        "building",
+        "architecture",
+        "kitchen design",
+        "bedroom"
+      ]
+    },
+    {
       "id": 1,
-      "img": "./assets/project/project1.png",
-      "name": "modern kitchan",
-      "type": "Decor / Artchitecture",
-      "link": "/"
+      "img": "./projects-view/project2-3.png",
+      "name": "classic kithcen",
+      "date": 1734825600,
+      "tag": ["kitchen", "bedroom", "kitchen design", "bedroom"]
     },
     {
       "id": 2,
-      "img": "./assets/project/project2.png",
-      "name": "modern kitchan",
-      "type": "Decor / Artchitecture",
-      "link": "/"
+      "img": "./projects-view/project2-5.png",
+      "name": "classsic office",
+      "date": 1735171200,
+      "tag": ["architecture", "kitchen", "bedroom", "building"]
     },
     {
       "id": 3,
-      "img": "./assets/project/project3.png",
-      "name": "modern kitchan",
-      "type": "Decor / Artchitecture",
-      "link": "/"
+      "img": "./projects-view/project2-7.png",
+      "name": "Classic bedroom",
+      "date": 1735084800,
+      "tag": ["kitchen", "bedroom", "building", "architecture"]
     },
     {
       "id": 4,
-      "img": "./assets/project/project4.png",
-      "name": "modern kitchan",
-      "type": "Decor / Artchitecture",
-      "link": "/"
+      "img": "./projects-view/project2-2.png",
+      "name": "classic kithcen",
+      "date": 1734825600,
+      "tag": ["architecture", "kitchen", "bedroom", "building"]
+    },
+    {
+      "id": 5,
+      "img": "./projects-view/project2-4.png",
+      "name": "classsic office",
+      "date": 1735084800,
+      "tag": ["bedroom", "kitchen", "building", "architecture"]
+    },
+    {
+      "id": 5,
+      "img": "./projects-view/project2-6.png",
+      "name": "classsic office",
+      "date": 1735084800,
+      "tag": ["bedroom", "kitchen", "building", "architecture"]
+    },
+    {
+      "id": 5,
+      "img": "./projects-view/project2-8.png",
+      "name": "classsic office",
+      "date": 1735084800,
+      "tag": ["bedroom", "kitchen", "building", "architecture"]
     }
   ],
 
