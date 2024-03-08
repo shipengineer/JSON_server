@@ -77,14 +77,7 @@
       "img": "./projects-view/project2-1.png",
       "name": "Classic bed room",
       "date": 1735171200,
-      "tag": [
-        "kitchen",
-        "bed room",
-        "building",
-        "architecture",
-        "kitchen design",
-        "bed room"
-      ]
+      "tag": ["kitchen", "bed room"]
     },
     {
       "id": 1,
@@ -119,21 +112,21 @@
       "img": "./projects-view/project2-4.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bed room", "kitchen"]
+      "tag": ["bathroom", "kitchen"]
     },
     {
       "id": 5,
       "img": "./projects-view/project2-6.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bed room", "kitchen", "building", "architecture"]
+      "tag": ["bed room", "bathroom", "building", "architecture"]
     },
     {
       "id": 5,
       "img": "./projects-view/project2-8.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bed room", "kitchen", "building", "architecture"]
+      "tag": ["bed room", "bathroom", "building", "architecture"]
     }
   ],
 
