@@ -7,11 +7,11 @@
       "date": 1735171200,
       "tag": [
         "kitchen",
-        "bedroom",
+        "bed room",
         "building",
         "architecture",
         "kitchen design",
-        "bedroom"
+        "bed room"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "img": "./news-image/2.png",
       "name": " low cost latest invented interior designing ideas.",
       "date": 1734825600,
-      "tag": ["kitchen", "bedroom", "kitchen design", "bedroom"]
+      "tag": ["kitchen", "bed room", "kitchen design", "bed room"]
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "img": "./news-image/4.png",
       "name": "let’s get solution for building construction work",
       "date": 1735084800,
-      "tag": ["kitchen", "bedroom", "building", "architecture"]
+      "tag": ["kitchen", "bed room", "building", "architecture"]
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "img": "./article/1.png",
       "name": "best for any office & business interior solution",
       "date": 1735084800,
-      "tag": ["kitchen", "bedroom", "architecture"],
+      "tag": ["kitchen", "bed room", "architecture"],
       "main": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injecthumour, or randomised words which don't look even slightly believable./nEmbarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary."
     },
     {
@@ -62,7 +62,7 @@
       "img": "./article/2.png",
       "name": "best for any office & business interior solution",
       "date": 1735084800,
-      "tag": ["kitchen", "bedroom", "architecture"],
+      "tag": ["kitchen", "bed room", "architecture"],
       "main": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
       "points": [
         "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
@@ -75,15 +75,15 @@
     {
       "id": 0,
       "img": "./projects-view/project2-1.png",
-      "name": "Classic bedroom",
+      "name": "Classic bed room",
       "date": 1735171200,
       "tag": [
         "kitchen",
-        "bedroom",
+        "bed room",
         "building",
         "architecture",
         "kitchen design",
-        "bedroom"
+        "bed room"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "img": "./projects-view/project2-3.png",
       "name": "classic kithcen",
       "date": 1734825600,
-      "tag": ["bedroom", "kitchen design", "bedroom"]
+      "tag": ["bed room", "kitchen design", "bed room"]
     },
     {
       "id": 2,
@@ -103,9 +103,9 @@
     {
       "id": 3,
       "img": "./projects-view/project2-7.png",
-      "name": "Classic bedroom",
+      "name": "Classic bed room",
       "date": 1735084800,
-      "tag": ["kitchen", "building"]
+      "tag": ["kitchen", "bed room"]
     },
     {
       "id": 4,
@@ -119,21 +119,21 @@
       "img": "./projects-view/project2-4.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bedroom", "kitchen"]
+      "tag": ["bed room", "kitchen"]
     },
     {
       "id": 5,
       "img": "./projects-view/project2-6.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bedroom", "kitchen", "building", "architecture"]
+      "tag": ["bed room", "kitchen", "building", "architecture"]
     },
     {
       "id": 5,
       "img": "./projects-view/project2-8.png",
       "name": "classsic office",
       "date": 1735084800,
-      "tag": ["bedroom", "kitchen", "building", "architecture"]
+      "tag": ["bed room", "kitchen", "building", "architecture"]
     }
   ],
 
